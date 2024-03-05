@@ -4,7 +4,7 @@ Welcome to Bankist, a straightforward online banking application that empowers u
 
 ## Live Demo
 
-Explore Bankist live:
+Explore Bankist live:https://bankist-app-sankalp.pages.dev/
 
 ## Getting Started
 
